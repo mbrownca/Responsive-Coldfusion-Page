@@ -1,1 +1,1 @@
-# Responsive page with Coldfusion content from SQL database
+# Responsive Coldfusion page with content from SQL database
